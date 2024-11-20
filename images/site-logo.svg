@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 2.4648438 2.0115883"
+   height="2.0115883"
+   width="2.4648438">
+  <defs
+     id="defs10" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-10.712891,-6.6055336)"
+     style="display:inline"
+     id="layer1">
+    <rect
+       y="6.7425461"
+       x="10.714955"
+       height="1.7400389"
+       width="2.4435825"
+       id="rect23"
+       style="fill:#ffffff;stroke-width:0.27637926" />
+    <text
+       id="text27"
+       y="7.8461747"
+       x="4.8282137"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="44.339386"
+         x="4.8282137"
+         id="tspan25" /></text>
+    <g
+       id="g4531">
+      <g
+         id="g4527">
+        <rect
+           y="6.8076115"
+           x="10.782153"
+           height="1.6118619"
+           width="2.3182986"
+           id="rect3778"
+           style="fill:#000000;stroke-width:1.02050292" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(-10.712891,-6.6055336)"
+     id="layer3">
+    <rect
+       y="8.5391264"
+       x="10.714844"
+       height="0.07799565"
+       width="2.4453125"
+       id="rect3781"
+       style="fill:#ffffff;stroke-width:0.89214867" />
+    <rect
+       y="6.6055336"
+       x="10.712891"
+       height="0.07799565"
+       width="2.4648438"
+       id="rect3781-5"
+       style="fill:#ffffff;stroke-width:0.89570445" />
+  </g>
+  <g
+     transform="translate(-10.712891,-6.6055336)"
+     style="display:inline"
+     id="layer2">
+    <text
+       id="text3734"
+       y="8.3164282"
+       x="10.770017"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:2px"
+         y="8.3164282"
+         x="10.770017"
+         id="tspan3732"><tspan
+           id="tspan3746"
+           style="fill:#ffffff">SS</tspan></tspan></text>
+  </g>
+</svg>
